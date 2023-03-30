@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "title": "Data Analyst",
+    "location": "Douala, Cameroun",
+    "salary": "200.000 fCFA"
+    },
+    {
+        "id": 2,
+        "title": "Frontend Developer",
+        "location": "Yaoundé, Cameroun",
+        "salary": "150.000 fCFA"
+    },
+    {
+        "id": 3,
+        "title": "Backend Developer",
+        "location": "Bafoussam, Cameroun",
+        "salary": "150.000 fCFA"
+    }
+]
